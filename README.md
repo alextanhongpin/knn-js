@@ -1,2 +1,5 @@
-# knn-js
-simple k-nearest-neighbour with javascript
+#KNN
+
+Simple KNN with javascript nodejs.
+
+![Terminal Results](results.png)
